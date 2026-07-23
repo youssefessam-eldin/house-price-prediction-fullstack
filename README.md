@@ -22,5 +22,8 @@ project/
         └── App.jsx
 
 ## 💾 Dataset & Model File
-Due to GitHub file size limits (> 50 MB), the raw dataset (`house_prices.csv`) and model (`house_price.pkl`) are not committed. 
-- You can generate the `.pkl` file by running the Jupyter notebook inside `notebooks/`.
+
+Due to GitHub file size limits (> 50 MB), the raw dataset and trained model are excluded from the repository.
+
+* 📊 **Dataset Source:** You can download the original dataset from [Kaggle - House Price Dataset](https://www.kaggle.com/datasets/juhibhojani/house-price).
+* 🤖 **Model File:** You can regenerate the trained `house_price.pkl` model file by running the Jupyter notebook inside the `notebooks/` directory.
