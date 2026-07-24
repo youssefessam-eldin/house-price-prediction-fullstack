@@ -113,6 +113,8 @@ The backend will run on **http://127.0.0.1:8000** — test it live at **http://1
    npm run dev
    ```
 
+The frontend will run on http://localhost:5173 open it in any browser
+
 ---
 
 ## 🔌 API Reference
